@@ -1,0 +1,10 @@
+
+P	java:S125E"<This block of commented-out lines of code should be removed.( àÚ
+V	java:S125O"<This block of commented-out lines of code should be removed.(“Î§»şÿÿÿÿ
+V	java:S1259"<This block of commented-out lines of code should be removed.(¨²ßÌıÿÿÿÿ
+>
+java:S2789#"(Remove this null-check of an "Optional".(šÏüé
+Y
+java:S2583#"CChange this condition so that it does not always evaluate to "true"(šÏüé
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ó¼Ä
+V	java:S125;"<This block of commented-out lines of code should be removed.(•œú“úÿÿÿÿ

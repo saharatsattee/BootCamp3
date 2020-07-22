@@ -1,0 +1,20 @@
+
+V
+java:S1128
+"@Remove this unused import 'javax.swing.text.html.parser.Entity'.(Û‡Ð‘
+<
+java:S1452"&Remove usage of generic wildcard type.(É°ðü
+<
+java:S1452&"&Remove usage of generic wildcard type.(—í÷É
+V
+java:S4684&"@Replace this persistent entity with a simple POJO or DTO object.(—í÷É
+e
+java:S4488%"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢þÿÿÿÿ
+<
+java:S1452,"&Remove usage of generic wildcard type.(àà¡¡
+V
+java:S4684,"@Replace this persistent entity with a simple POJO or DTO object.(àà¡¡
+<
+java:S14524"&Remove usage of generic wildcard type.(÷øÃ¸
+A
+java:S14529"&Remove usage of generic wildcard type.(——Äúÿÿÿÿ
